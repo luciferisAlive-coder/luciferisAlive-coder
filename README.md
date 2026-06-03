@@ -19,7 +19,7 @@
   <!-- 2. VISITOR COUNTER & QUICK STATS -->
   <p align="center">
     <!-- REPLACE ALL 'YOUR_GITHUB_USERNAME' WITH YOUR ACTUAL GITHUB USERNAME -->
-    <img src="https://komarev.com/normal-badge.png?id=luciferisAlive-coder&style=flat-square&color=00F0FF&label=SYSTEM+ACCESSES" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=luciferisAlive-coder&label=Visitors&color=0e75b6&style=flat" alt="luciferisAlive-coder" />
     <img src="https://img.shields.io/github/followers/luciferisAlive-coder?label=NETWORK&style=flat-square&color=ff0055&logo=github" alt="Followers" />
     <img src="https://img.shields.io/github/stars/luciferisAlive-coder?label=RECON_STARS&style=flat-square&color=7b2cbf&logo=github" alt="Stars" />
   </p>
